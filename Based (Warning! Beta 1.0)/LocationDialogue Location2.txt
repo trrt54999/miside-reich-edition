@@ -1,0 +1,9 @@
+// Player start
+Де я?
+Знайоме місце.
+Я у цій грі?
+// Player try open the door
+Замкнено?
+// Player in dark
+Тут темно.
+Я нічого не бачу.
