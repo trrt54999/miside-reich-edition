@@ -15,7 +15,7 @@ At the moment, only one language in the mod is made under the theme of the Reich
 
 
 Для установки мода нужно перейти  по пути  C:\Program Files (x86)\Steam\steamapps\common\MiSide\Data\Languages  и перекинуть папку под названиием Reich в Languages. Далее содержимое папки skin нужно перекинуть по пути
- C:\Program Files (x86)\Steam\steamapps\common\MiSide\Data\Custom\New (Sample) и с заменой заменить все файлы в New (Sample).
+C:\Program Files (x86)\Steam\steamapps\common\MiSide\Data\Custom\New (Sample) и с заменой заменить все файлы в New (Sample).
 Затем перейдя в игру выставляем язык  "卐Базована卐" так же если вы хотите увидеть особый скин Миты перейдите во вкладку одежда, выбираем оригинальную одежду и жмем на нижний кружок 
 ![Image](https://github.com/user-attachments/assets/efaf3ccb-48ef-47e5-883d-d4009797366d)
 
